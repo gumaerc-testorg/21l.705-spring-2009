@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: c68be0e2-47d4-965a-af60-2b0287dfed25
 resourcetype: Document
 title: The Golden Compass
 uid: 67eacab1-fad1-b721-aad1-d402fda727df
