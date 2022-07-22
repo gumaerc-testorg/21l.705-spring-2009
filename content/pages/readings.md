@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings and related background materials
+  for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 57f9eac1-22d1-35e0-29a3-f746e40ac7e9
 ---
@@ -35,23 +40,19 @@ Rumrich, John. "Uninventing Milton." _Modern Philology_ 87 (1990): 249-265.
 Related Background Materials
 ----------------------------
 
-[What happens in "Paradise Lost": a reader's guide. (PDF)  
-]({{< baseurl >}}/resources/mit21l_705s09_read01)\[Charting the sequence of events in Milton's story against where they occur or are narrated in "Paradise Lost."\]
+{{% resource_link "618fdba1-2e17-7ee0-2df6-ef606e61abeb" "What happens in \"Paradise Lost\": a reader's guide. (PDF)   " %}}\[Charting the sequence of events in Milton's story against where they occur or are narrated in "Paradise Lost."\]
 
-[Notes on Lewis, preface, Chapters 7-8 (PDF)]({{< baseurl >}}/resources/mit21l_705s09_read02)
+{{% resource_link 6cf06313-4d43-d4fd-70c6-1dca2ef7965d "Notes on Lewis, preface, Chapters 7-8 (PDF)" %}}
 
-[Nyquist VI-VII notes (PDF)]({{< baseurl >}}/resources/mit21l_705s09_read03)
+{{% resource_link e934fed0-11bc-fb5b-4201-9e61577c0a25 "Nyquist VI-VII notes (PDF)" %}}
 
-[Translations of Ramus (PDF)  
-]({{< baseurl >}}/resources/mit21l_705s09_read04)\[This handout translates passages cited in French by Stanley Fish, in "Milk of the Pure Word".\]
+{{% resource_link "99688a47-5dc5-cb1e-0ac0-250d00855e90" "Translations of Ramus (PDF)   " %}}\[This handout translates passages cited in French by Stanley Fish, in "Milk of the Pure Word".\]
 
-[Some help with Kerrigan (PDF)]({{< baseurl >}}/resources/mit21l_705s09_read05)
+{{% resource_link 3b1a835d-c6cc-b169-df0f-a8aed196730e "Some help with Kerrigan (PDF)" %}}
 
-[Vocabulary for Kerrigan reading (PDF)  
-]({{< baseurl >}}/resources/mit21l_705s09_read06)\[Some unusual terms defined.\]
+{{% resource_link "d02f5029-8ddf-1c65-4972-2af256f56ee7" "Vocabulary for Kerrigan reading (PDF)   " %}}\[Some unusual terms defined.\]
 
-[Unusual vocabulary in Grossman (from the OED) (PDF)  
-]({{< baseurl >}}/resources/mit21l_705s09_read07)\[Some unusual terms defined.\]
+{{% resource_link "baf3f440-68c2-6f28-b0b6-ba213622c889" "Unusual vocabulary in Grossman (from the OED) (PDF)   " %}}\[Some unusual terms defined.\]
 
 [Paradise Lost](http://www.dartmouth.edu/~milton/reading_room/pl/book_1/index.shtml)  
 \[Searchable, annotated text of the poem.\]
