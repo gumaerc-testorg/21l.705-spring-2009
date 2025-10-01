@@ -53,22 +53,22 @@ Rumrich, John. "Uninventing Milton." *Modern Philology* 87 (1990): 249-265.
 
 {{% resource_link "baf3f440-68c2-6f28-b0b6-ba213622c889" "Unusual vocabulary in Grossman (from the OED) (PDF)" %}} \[Some unusual terms defined.\]
 
-[Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)    
+{{% resource_link "16e07305-02e0-4f05-9eaf-c3cef36c0f0a" "Paradise Lost" %}}    
 \[Searchable, annotated text of the poem.\]
 
-[Early English Books Online](http://eebo.chadwyck.com/home)    
+{{% resource_link "283aaac4-5bd2-4c99-91c6-08c556afd5de" "Early English Books Online" %}}    
 \[Use this site to view the original editions of "Paradise Lost" during Milton's lifetime.\]
 
-[Milton Reading Room](https://milton.host.dartmouth.edu/reading_room/contents/text.shtml)    
+{{% resource_link "d6bf2acd-a41c-4bba-8a7f-81b20d81234b" "Milton Reading Room" %}}    
 \[This useful site has texts of Milton's other works, sources, and a bibliography of criticism.\]
 
-[Descartes, First Meditation](http://www.sparknotes.com/philosophy/meditations/section2.rhtml)    
+{{% resource_link "a05d6ac3-0436-4c02-87ff-f9e7456007a3" "Descartes, First Meditation" %}}    
 \[See para 12 for the famous hypothesis of the evil demon (referenced in Gross, p. 319).\]
 
-[The William Blake Archive](http://www.blakearchive.org/blake/main.html)    
+{{% resource_link "30b82be6-2ea4-4846-ac25-9250542e6c6b" "The William Blake Archive" %}}    
 \[Gross cites plates 5-6 of this text; find it in the Blake Archive (copies differ only in coloration; try comparing them).\]
 
-[Marshall Grossman, "Milton's Dialectic Visions"](http://www.jstor.org/action/showJournals?cookieSet=1)    
+{{% resource_link "82a0d75a-996d-4c8b-affb-af501b177a9c" "Marshall Grossman, \"Milton's Dialectic Visions\"" %}}    
 \[This link connects you to the Library's JSTOR service. Enter "Milton's Dialectical Visions" in the Search box.\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
